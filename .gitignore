@@ -25,6 +25,8 @@
 .factorypath
 target
 
+*.iml
+
 misc.xml
 vcs.xml
 workspace.xml
