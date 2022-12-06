@@ -50,7 +50,7 @@
         <!-- 分页插件版本 -->
         <!-- <pagehelper.version>5.1.10</pagehelper.version> -->
         <fastjson.version>1.2.58</fastjson.version>
-        <commons-net.version>3.6</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <!-- 支付宝支付 -->
         <alipay-sdk-java.version>3.7.4.ALL</alipay-sdk-java.version>
         <!-- ElasticSearch搜索引擎 -->
